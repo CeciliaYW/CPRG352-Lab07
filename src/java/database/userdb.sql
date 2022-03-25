@@ -5,7 +5,7 @@
 /**
  * Author:  ceci_
  * Created: 22-Mar-2022
- */
+ */userdb
 
 DROP SCHEMA IF EXISTS `userdb`;
 CREATE SCHEMA IF NOT EXISTS `userdb` DEFAULT CHARACTER SET latin1;
